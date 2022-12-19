@@ -19,3 +19,6 @@ Quiz made with CLI using NodeJS.
 
 ### Live link of project
 [Here](https://replit.com/@HiddarthoBaruah/howwellareyougettingjs?embed=1&output=1)
+
+#### Cli quiz app exhibit:
+![cli_quiz_app](https://github.com/hiddartho/mark-2_fandom_quiz/blob/main/images/cli_how_well_do_you_know_js.jpeg)
